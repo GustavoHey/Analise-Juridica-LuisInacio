@@ -1,6 +1,6 @@
 # Análise das Instâncias da Lava Jato
 
-Este projeto apresenta uma página HTML dedicada a explicar, de forma detalhada e embasada, cada instância do processo da **Operação Lava Jato**, com foco nas **prisões e condenações do atual Presidente da República (2025)**. O conteúdo é fundamentado em **análises jurídicas, fatos do processo** e **decisões do STF em 2023**.
+Este projeto apresenta uma página HTML dedicada a explicar, de forma detalhada e embasada, cada instância do processo da **Operação Lava Jato**, com foco nas **prisões e condenações do atual (2025) Presidente da República (Luiz Inácio Lula da Silva)**. O conteúdo é fundamentado em **análises jurídicas, fatos do processo** e **decisões do STF em 2023**.
 
 ---
 
