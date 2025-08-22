@@ -21,7 +21,7 @@ A página contém:
 1. **Linha do tempo do processo** – detalhando fases, instâncias e decisões relevantes.
 2. **Análises jurídicas** – interpretação de fatos, recursos e decisões.
 3. **Decisões do STF (2023)** – pontos-chave que impactaram o andamento das condenações.
-4. **Linkss** – acesso a documentos oficiais (STF) na integrá.
+4. **Links** – acesso a documentos oficiais (STF) na integrá.
 
 ---
 
